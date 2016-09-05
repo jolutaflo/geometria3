@@ -1,10 +1,10 @@
-
+//jose tarazona 1151503
 package geometria3.mundo;
 
 public class Triangulo {
 
     float l1,l2,l3;
-    public Triangulo(){
+    public Triangulo(){ //creamos el metodo constructor e inicializamos en 0
         this.l1=0;
         this.l2=0;
         this.l3=0;

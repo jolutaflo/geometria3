@@ -1,3 +1,4 @@
+//jose tarazona
 /*
  * FrmTrangulo.java
  *
